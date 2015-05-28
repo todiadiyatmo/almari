@@ -7,7 +7,7 @@ Installation
 You can use composer to install Almari
 
 ```
-composer require lotus/almari
+composer require tonjoo/almari
 ```
 
 Or you can put it on `composer.json`
